@@ -1,5 +1,5 @@
 SpeechRecognition
-googletrans
+googletrans==4.0.0-rc1
 textblob
 pyttsx3
 pyaudio
