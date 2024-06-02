@@ -1,0 +1,8 @@
+SpeechRecognition
+googletrans
+textblob
+pyttsx3
+pyaudio
+boto3
+mpyg321
+dotenv
